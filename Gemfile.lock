@@ -4,7 +4,7 @@ GEM
     awesome_print (1.1.0)
     faraday (0.8.7)
       multipart-post (~> 1.1)
-    multi_json (1.7.2)
+    multi_json (1.7.3)
     multipart-post (1.2.0)
 
 PLATFORMS
@@ -13,4 +13,4 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   faraday (= 0.8.7)
-  multi_json (= 1.7.2)
+  multi_json (= 1.7.3)
