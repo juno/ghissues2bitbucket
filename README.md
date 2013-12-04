@@ -1,5 +1,7 @@
 # ghissues2bitbucket
 
+[![Gemnasium](https://gemnasium.com/juno/ghissues2bitbucket.png)](https://gemnasium.com/juno/ghissues2bitbucket/)
+
 Import GitHub issues and comments as BitBucket Issues.
 
 **CAUTION: This script is experimental. Be careful when you use this.**

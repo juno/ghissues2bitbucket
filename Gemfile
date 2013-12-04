@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'awesome_print'
-gem 'faraday', '0.8.7'
-gem 'multi_json', '1.7.3'
+gem 'awesome_print', '1.2.0'
+gem 'faraday', '0.8.8'
+gem 'multi_json', '1.8.2'
